@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">  📚 Learning modern C++ and AI basics<br>  🎯 Pursuing a Bachelor's Degree<br>  🎓 Studying Computer Science at Jagiellonian University, Faculty of Mathematics and Computer Science<br>  🎹 Passionate musician<br>  🧩 Brain teaser enthusiast<br>  💪Incorporating fitness into my daily routine</p>
+<p align="left">  📚 Learning modern C++ and AI basics<br>  🎯 Pursuing a Bachelor's Degree<br>  🎓 Studying Computer Science at Jagiellonian University, Faculty of Mathematics and Computer Science<br>  🎹 Passionate musician<br>  🧩 Brain teaser enthusiast<br>  💪Incorporating working out into my daily routine</p>
 
 ###
 
